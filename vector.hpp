@@ -1,5 +1,5 @@
 /********************************************************************
-* HW4 -- Vector Class Template
+* Vector Class Template
 *
 * Author: Paul Thompson
 *         prt@uakron.edu
